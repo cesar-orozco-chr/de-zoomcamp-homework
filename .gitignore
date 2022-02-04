@@ -3,3 +3,5 @@ env
 *.json
 *.csv
 data
+__pycache__
+logs
